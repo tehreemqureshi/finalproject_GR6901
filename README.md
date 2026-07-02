@@ -1,6 +1,6 @@
 Tehreem Qureshi (tq2150)
 GR901 Final Project Proposal  
-
+Proposal and Final Grade: A
 ## General 
 My proposal focuses on the most recent boreal summers of 2020-2024 and in utilizing temperature anomaly datasets to characterize and analyze the warming that we have been seeing globally, and if there are any particular regions with patterns or outlying trends. 
 I plan to utilize two different datasets that characterize temperature anomalies using climatologies to analyze how different datasets can differ and be similar and what we can learn in comparing the data.
